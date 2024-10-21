@@ -7,7 +7,7 @@ search_active_matches = "https://data.deadlock-api.com/v1/active-matches"
 
 
 headers = {
-    "api_key": "HEXE-2eee2244-c350-487c-99f7-983a9ba02fc2",  
+    "api_key": "ENTER API KEY HERE",  
     "Content-Type": "application/json"
 }
 
