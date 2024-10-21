@@ -10,7 +10,11 @@ search_active_matches = "https://data.deadlock-api.com/v1/active-matches"
 
 api_key = os.getenv('api_key')
 headers = {
+<<<<<<< HEAD
     "api_key": api_key,  
+=======
+    "api_key": "ENTER API KEY HERE",  
+>>>>>>> 9c32e7101ad1fcdb3b99f7baea64fc40303efe62
     "Content-Type": "application/json"
 }
 
